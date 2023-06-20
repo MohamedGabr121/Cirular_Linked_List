@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q8", "Q8\Q8.csproj", "{AFBE63D1-B42E-47AD-90AE-DEC54DB0FE9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFBE63D1-B42E-47AD-90AE-DEC54DB0FE9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFBE63D1-B42E-47AD-90AE-DEC54DB0FE9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFBE63D1-B42E-47AD-90AE-DEC54DB0FE9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFBE63D1-B42E-47AD-90AE-DEC54DB0FE9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75260672-8741-407E-BAE9-1AB47ED95D4D}
+	EndGlobalSection
+EndGlobal

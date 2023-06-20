@@ -1,0 +1,15 @@
+D:\Cirular Linked List\Q4\Q4\bin\Debug\net6.0\Q4.exe
+D:\Cirular Linked List\Q4\Q4\bin\Debug\net6.0\Q4.deps.json
+D:\Cirular Linked List\Q4\Q4\bin\Debug\net6.0\Q4.runtimeconfig.json
+D:\Cirular Linked List\Q4\Q4\bin\Debug\net6.0\Q4.dll
+D:\Cirular Linked List\Q4\Q4\bin\Debug\net6.0\Q4.pdb
+D:\Cirular Linked List\Q4\Q4\obj\Debug\net6.0\Q4.csproj.AssemblyReference.cache
+D:\Cirular Linked List\Q4\Q4\obj\Debug\net6.0\Q4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cirular Linked List\Q4\Q4\obj\Debug\net6.0\Q4.AssemblyInfoInputs.cache
+D:\Cirular Linked List\Q4\Q4\obj\Debug\net6.0\Q4.AssemblyInfo.cs
+D:\Cirular Linked List\Q4\Q4\obj\Debug\net6.0\Q4.csproj.CoreCompileInputs.cache
+D:\Cirular Linked List\Q4\Q4\obj\Debug\net6.0\Q4.dll
+D:\Cirular Linked List\Q4\Q4\obj\Debug\net6.0\refint\Q4.dll
+D:\Cirular Linked List\Q4\Q4\obj\Debug\net6.0\Q4.pdb
+D:\Cirular Linked List\Q4\Q4\obj\Debug\net6.0\Q4.genruntimeconfig.cache
+D:\Cirular Linked List\Q4\Q4\obj\Debug\net6.0\ref\Q4.dll
